@@ -1,6 +1,11 @@
 # StrokeRisk_App
 Brain Stroke Prediction Data Science Project
 
+# UPDATE
+#### 2024-03-10
+
+- Paper got Accepted for the presentation in ICTEAH 2024!
+
 App Link - [StrokeRisk Windows App](https://drive.google.com/file/d/1jOo2tW9kZqtIweRbTol3oIPQd_Re49Iy/view?usp=sharing)
 
 
